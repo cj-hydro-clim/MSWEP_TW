@@ -10,7 +10,7 @@ In this repository, you will find:
 
 ## Documentation
 
-A peer-reviewed study is currently under review in Computers & Geosciences (see _Using and citing this work_ below).
+A peer-reviewed study is currently under review in Journal of Hydrology (see _Using and citing this work_ below).
 
 In each folder, we have included a README file that further describes the code, and sample input and output files. 
 
@@ -21,7 +21,7 @@ Please note that this work is under a GPL-3.0 License.
 If you're using this code or any parts of it, please cite the following study:
 
   Kao, Y.C & Chen, C.J. (2023).
-  _Development of Multi-Source Weighted-Ensemble Precipitation with Recurrent and Convolutional Neural Networks_ Computers & Geosciences, in review.
+  _Development of Multi-Source Weighted-Ensemble Precipitation: Influence of Bias Correction based on Recurrent Convolutional Neural Networks_ Journal of Hydrology, in review.
 
 ## Reporting bugs
 
